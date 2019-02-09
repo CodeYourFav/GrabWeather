@@ -1,1 +1,13 @@
+Ames
+Ames,US
+Ames,
+new york US
+new york, US
+Beijing, China
+Beijing, US
 Des Moines
+Desmoines
+
+FAKECITY
+FAKECITY, Canada
+Shanghai,FAKECOUNTRY

@@ -6,7 +6,7 @@ async function getWeatherByName(city, country)
     try 
     {
         var response;
-        //console.log(`city = ${city} country = ${country}`);
+        console.log(`city = ${city} country = ${country}`);
         if(country!=undefined && country!=``)
         {
             response = await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${city},${country}&units=imperial&APPID=${keys.user_api}`);

@@ -4,8 +4,9 @@
   "description": "Technical Problem",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js < mock_input.txt",
-    "start":"node index.js"
+    "test": "npm run bulktest",
+    "start":"node index.js",
+    "bulktest": "bash bulk.sh"
   },
   "repository": {
     "type": "git",
