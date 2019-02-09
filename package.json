@@ -1,0 +1,22 @@
+{
+  "name": "grabweather",
+  "version": "1.0.0",
+  "description": "Technical Problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeYourFav/GrabWeather.git"
+  },
+  "author": "Xingji Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeYourFav/GrabWeather/issues"
+  },
+  "homepage": "https://github.com/CodeYourFav/GrabWeather#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
